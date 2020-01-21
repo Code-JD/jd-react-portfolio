@@ -6,7 +6,7 @@
     border: 1px solid transparent;
     transition: all 0.5s ease-in-out;
     background-color: $orange;
-    color: black;
+    color: white;
   
     &:active,
     &:focus {
@@ -29,7 +29,7 @@
       border-left: 0px;
       border-bottom: 1px solid $orange;
       background-color: transparent;
-      transition: 0.5s all ease-in-out;
+      transition: 0.3s all ease-in-out;
       font-size: 1.1em;
       margin-bottom: 21px;
   

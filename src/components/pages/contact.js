@@ -26,8 +26,9 @@ export default function() {
 				{/* <div className="contact-links"></div> */}
 
 				<div className="social-media">
+
 					<div className="linkedin">
-						<a href="https:/www.linkedin.com/in/jonathan-herring-code">
+						<a href="https://www.linkedin.com/in/jonathan-herring-code">
 							<FaLinkedin color="#ff4000" size='10rem' />
 						</a>
 					</div>
